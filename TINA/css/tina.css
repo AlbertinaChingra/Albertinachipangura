@@ -1,0 +1,60 @@
+body{
+    
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+	
+
+
+.paragraph{
+ 
+ font-family: serif; 
+}
+
+h1 {
+    background-image: url("../images/1.jpg");  
+	color:maroon;
+	padding: 60px;
+	text-align: center;
+	font-size: 70px;
+	background-size:cover;
+	//height: auto;
+	background-repeat: no-repeat;
+  }
+  h2{
+    color:maroon;
+    text-align:center;
+    font-size: 35px;
+
+  }
+  ol{
+  	color: maroon;
+  }
+  a:link {
+    color: mediumseagreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: slateblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: lime green;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.footer{
+	border: groove;
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: maroon;
+	text-align: center;
+}
